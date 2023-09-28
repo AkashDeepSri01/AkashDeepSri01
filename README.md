@@ -18,10 +18,10 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=AkashDeepSri01&label=Profile%20views&color=0e75b6&style=flat" alt="AkashDeepSri01" /> </p>
 
 - 🔭 I’m currently Working on ML Projects
-- 🌱 I’m currently learning:Data Science
-- 💻 I'm looking to collaborate on:Data SCience projects/competitions .
+- 🌱 I’m currently learning Data Science
+- 💻 I'm looking to collaborate on Data SCience projects/competitions .
 - 💬 Ask me about **Data Science memes,kdramas,Bad Bunny**
-- 💬  My portfolio is [()]
+- ⚡ Hobbies:Dance,Solo bike riding
 - 📫 How to reach me **officialakaash01@gmail.com**
 -  📄 Know about my experiences [RESUME]()  
 <br/>
