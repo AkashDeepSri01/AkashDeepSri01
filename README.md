@@ -20,7 +20,8 @@
 - 🔭 I’m currently Working on Machine Learning Projects
 - 🌱 I’m currently learning Data Science
 - 💻 I'm looking to collaborate on Data Science projects/competitions .
-- 💬 Ask me about **Data Science ,Artificial intelligence,Machine learning**
+- 💬 Ask me about **Data Science ,Artificial intelligence,Machine
+      learning**
 - ⚡ Hobbies: Dance,Solo bike riding
 - 📫 How to reach me **officialakaash01@gmail.com**
 -  📄 Know about my experiences [RESUME]()  
