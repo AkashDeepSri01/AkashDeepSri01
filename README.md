@@ -8,7 +8,7 @@
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
  <a href="https://www.instagram.com/https://instagram.com/_mr_akash01?igshid=YTQwZjQ0NmI0OA==/" target="_blank">
-  <img src="![pngwing com](https://github.com/AkashDeepSri01/AkashDeepSri01/assets/140175963/6f22f135-7d45-4746-b70e-ed3b367662f1)
+  <img src="C:\Users\NEW PC\Downloads\pngwing.com.png
 " alt="Instagram Icon" width="30" height="30">
 </a>
 
