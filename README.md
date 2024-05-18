@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Akash Deep Srivastava</i></h1>
-<h3 align="center">"Passionate Data Scientist 📊 | Turning Data into Insights 🔍 | Machine Learning Enthusiast 🤖 | Python 🐍 | R 📈 | Data Visualization 📊 | AI Explorer 🌌 | Constantly Learning 🧠 | Let's Unlock the Power of Data Together! 💡 #DataScience #MachineLearning #AI #DataDriven" </h3>
+<h3 align="center">"Passionate Data Scientist 📊 | Data Analyst  📊 | Turning Data into Insights 🔍 | Machine Learning Enthusiast 🤖 | Python 🐍 | R 📈 | Data Visualization 📊 | AI Explorer 🌌 | Constantly Learning 🧠 | Let's Unlock the Power of Data Together! 💡 #DataScience #MachineLearning #AI #DataDriven" </h3>
 <br/>
 <br/>
 <a href="https://github.com/AkashDeepSri01/Data-science-course">
